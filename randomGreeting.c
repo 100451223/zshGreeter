@@ -7,7 +7,7 @@
 
 #define MAX_MESSAGES 256
 #define MAX_NAME_LEN 32
-#define GREET_PATH "/home/vadu/greetings"
+#define GREET_PATH "/home/vadu/projects/zshGreeter"
 
 int main(){
     DIR *d;
